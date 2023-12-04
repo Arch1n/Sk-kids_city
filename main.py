@@ -3,7 +3,7 @@ from telebot import types
 import random
 
 # Замените 'YOUR_TOKEN' на токен вашего бота
-TOKEN = '6759425927:AAEgoO3fIX1n--Hb5YA4SKjP14OE106sS44'
+TOKEN = 'Токен Для бота'
 bot = telebot.TeleBot(TOKEN)
 
 facts = [
